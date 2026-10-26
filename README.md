@@ -7,7 +7,7 @@ If you've ever tried hunting down old Java apps for a legacy phone, a feature ph
 
 The Internet is littered with dead links: Files vanish from file-sharing hosts every single day.
 
-key_LW5iR5Uf1jQTuBdP
+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
 Shady download portals: Most archive sites are bloated with aggressive pop-ups, fake "Download" buttons, malware warnings, and annoying ad-walls.
 
 The mission: JarVault was built to solve this. No paywalls, no ads, no countdown timers, and no broken links—just clean, direct, one-click access to the software that shaped mobile gaming and utility history.
