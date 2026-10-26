@@ -1,12 +1,13 @@
 # 📦 JarVault: The Ultimate Java App & Game Archive 
 Welcome to JarVault — a community-driven, frustration-free digital sanctuary dedicated to preserving and providing direct access to the golden age of Java ME (.jar and .jad) mobile applications and games.
-MTEzMzA4MzY2OTY0NTUwNDUxMg.Gtp7_C.nxCzQS7m3kG8U-SJjz510LXqLh2Hp0TmiYQ3zg
+MTEzMzA4MzY2OTY0NTUwNDUxMg.G3Xfh6.F89p8lJsI8HBRt8nwkL17_zFzF8KzOyJx5lRH8
 
 💡 Why Does JarVault Exist?
 If you've ever tried hunting down old Java apps for a legacy phone, a feature phone, a J2ME emulator (like J2ME Loader), or a retro modification project, you already know how painful the modern web has become.
 
 The Internet is littered with dead links: Files vanish from file-sharing hosts every single day.
 
+key_LW5iR5Uf1jQTuBdP
 Shady download portals: Most archive sites are bloated with aggressive pop-ups, fake "Download" buttons, malware warnings, and annoying ad-walls.
 
 The mission: JarVault was built to solve this. No paywalls, no ads, no countdown timers, and no broken links—just clean, direct, one-click access to the software that shaped mobile gaming and utility history.
